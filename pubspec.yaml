@@ -10,9 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-
-
+  confetti: ^0.8.0  # Keep the confetti package for the party effect
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
